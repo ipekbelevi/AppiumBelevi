@@ -1,7 +1,588 @@
-23-05-2022 16:56:36.416 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs
-23-05-2022 16:56:36.417 [Gauge] [INFO] Initializing concepts cache with 0 concepts
-23-05-2022 16:56:36.424 [Gauge] [DEBUG] Found 1 files
-23-05-2022 16:56:36.426 [Gauge] [INFO] Initializing specs cache with 1 specs
-23-05-2022 16:56:36.426 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\example.spec
-23-05-2022 16:56:36.427 [Gauge] [INFO] Initializing steps cache with 1 steps
-23-05-2022 16:56:36.427 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56964
+23-05-2022 21:12:54.348 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:12:54.381 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:14:59.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.361 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.399 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.500 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.502 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.503 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.504 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.504 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.576 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.576 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.576 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.577 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.577 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.650 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.671 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.703 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.703 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.704 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.712 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.713 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.713 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.719 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.719 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.745 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.745 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.803 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.804 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.804 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.804 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.804 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.859 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.859 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/ ID'li elemente t\304\261kla" > 
+23-05-2022 21:14:59.860 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.845 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.857 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:00.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:00.943 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.232 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.233 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.233 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.235 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.235 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.236 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.249 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.249 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.249 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.249 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.251 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.251 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.260 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.271 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.271 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.378 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.378 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.379 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.379 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.379 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.403 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.405 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.464 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.465 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.465 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.509 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.606 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.606 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.607 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.660 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.660 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.718 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.718 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.719 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.719 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:01.760 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.246 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.246 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.247 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.248 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.248 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.337 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.338 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.338 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.435 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.436 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.437 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.483 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.484 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.484 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.548 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.549 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.550 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.635 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.635 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.636 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.636 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:02.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/li elemente t\304\261kla" > 
+23-05-2022 21:15:02.636 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:15:20.779 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:15:20.782 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:15:33.825 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:15:33.866 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:17:43.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \".\" de\304\237erini yaz" > 
+23-05-2022 21:17:43.205 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <.> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"." > > 
+23-05-2022 21:17:43.386 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"..\" de\304\237erini yaz" > 
+23-05-2022 21:17:43.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <..> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:".." > > 
+23-05-2022 21:17:43.521 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...\" de\304\237erini yaz" > 
+23-05-2022 21:17:43.522 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"..." > > 
+23-05-2022 21:17:44.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...i\" de\304\237erini yaz" > 
+23-05-2022 21:17:44.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...i> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...i" > > 
+23-05-2022 21:17:44.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ip\" de\304\237erini yaz" > 
+23-05-2022 21:17:44.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ip> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ip" > > 
+23-05-2022 21:17:45.304 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ipk\" de\304\237erini yaz" > 
+23-05-2022 21:17:45.304 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk" > > 
+23-05-2022 21:17:45.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ipk0\" de\304\237erini yaz" > 
+23-05-2022 21:17:45.721 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0" > > 
+23-05-2022 21:17:46.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ipk07\" de\304\237erini yaz" > 
+23-05-2022 21:17:46.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk07> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk07" > > 
+23-05-2022 21:17:46.890 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ipk071\" de\304\237erini yaz" > 
+23-05-2022 21:17:46.890 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk071> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk071" > > 
+23-05-2022 21:17:47.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etPassword\" ID'li elemente \"...ipk0719\" de\304\237erini yaz" > 
+23-05-2022 21:17:47.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0719> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0719" > > 
+23-05-2022 21:17:49.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"i\" de\304\237erini yaz" > 
+23-05-2022 21:17:49.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <i> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"i" > > 
+23-05-2022 21:17:49.784 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ip\" de\304\237erini yaz" > 
+23-05-2022 21:17:49.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ip> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ip" > > 
+23-05-2022 21:17:50.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipe\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipe> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipe" > > 
+23-05-2022 21:17:50.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipek\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipek> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipek" > > 
+23-05-2022 21:17:50.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekb\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekb> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekb" > > 
+23-05-2022 21:17:50.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbe\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbe> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbe" > > 
+23-05-2022 21:17:50.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbel\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbel> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbel" > > 
+23-05-2022 21:17:50.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbele\" de\304\237erini yaz" > 
+23-05-2022 21:17:50.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbele> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbele" > > 
+23-05-2022 21:17:51.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelev\" de\304\237erini yaz" > 
+23-05-2022 21:17:51.053 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelev> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelev" > > 
+23-05-2022 21:17:51.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi\" de\304\237erini yaz" > 
+23-05-2022 21:17:51.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi" > > 
+23-05-2022 21:17:51.489 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbeleviq\" de\304\237erini yaz" > 
+23-05-2022 21:17:51.490 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbeleviq> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbeleviq" > > 
+23-05-2022 21:17:52.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@\" de\304\237erini yaz" > 
+23-05-2022 21:17:52.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@" > > 
+23-05-2022 21:17:52.677 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@h\" de\304\237erini yaz" > 
+23-05-2022 21:17:52.678 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@h> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@h" > > 
+23-05-2022 21:17:52.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@ho\" de\304\237erini yaz" > 
+23-05-2022 21:17:52.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@ho> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@ho" > > 
+23-05-2022 21:17:53.028 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hot\" de\304\237erini yaz" > 
+23-05-2022 21:17:53.028 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hot> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hot" > > 
+23-05-2022 21:17:53.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotm\" de\304\237erini yaz" > 
+23-05-2022 21:17:53.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotm> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotm" > > 
+23-05-2022 21:17:53.286 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotma\" de\304\237erini yaz" > 
+23-05-2022 21:17:53.287 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotma> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotma" > > 
+23-05-2022 21:17:53.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmai\" de\304\237erini yaz" > 
+23-05-2022 21:17:53.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmai> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmai" > > 
+23-05-2022 21:17:53.557 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmail\" de\304\237erini yaz" > 
+23-05-2022 21:17:53.557 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmail> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmail" > > 
+23-05-2022 21:17:54.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmailc\" de\304\237erini yaz" > 
+23-05-2022 21:17:54.225 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmailc> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmailc" > > 
+23-05-2022 21:17:54.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmailc.\" de\304\237erini yaz" > 
+23-05-2022 21:17:54.346 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmailc.> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmailc." > > 
+23-05-2022 21:17:54.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmail.\" de\304\237erini yaz" > 
+23-05-2022 21:17:54.881 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmail.> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmail." > > 
+23-05-2022 21:17:55.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmail.c\" de\304\237erini yaz" > 
+23-05-2022 21:17:55.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmail.c> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmail.c" > > 
+23-05-2022 21:17:55.158 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmail.co\" de\304\237erini yaz" > 
+23-05-2022 21:17:55.159 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmail.co> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmail.co" > > 
+23-05-2022 21:17:55.246 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/etEposta\" ID'li elemente \"ipekbelevi@hotmail.com\" de\304\237erini yaz" > 
+23-05-2022 21:17:55.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> ID'li elemente <ipekbelevi@hotmail.com> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etEposta" parameters:"ipekbelevi@hotmail.com" > > 
+23-05-2022 21:18:05.096 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:05.098 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:08.739 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:08.760 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:10.947 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:10.948 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:10.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:10.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.059 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:11.152 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:11.179 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-05-2022 21:18:11.181 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"{} kadar bekle" parameterizedStepValue:"<5> kadar bekle" parameters:"5" > allSteps:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/cardAddToCart> ID'li elemente t\304\261kla" parameters:"com.ozdilek.ozdilekteyim:id/cardAddToCart" > allSteps:<stepValue:"{} xpath'li elemente t\304\261kla" parameterizedStepValue:"<//*[@text='Pantolon']> xpath'li elemente t\304\261kla" parameters:"//*[@text='Pantolon']" > allSteps:<stepValue:"{} Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/imageView> Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameters:"com.ozdilek.ozdilekteyim:id/imageView" > allSteps:<stepValue:"geri don butonuna t\304\261kla" parameterizedStepValue:"geri don butonuna t\304\261kla" > allSteps:<stepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" parameterizedStepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" > allSteps:<stepValue:"{} ID bul ve {} de\304\237erini kontrol et" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> ID bul ve <ALI\305\236VER\304\260\305\236E BA\305\236LA> de\304\237erini kontrol et" parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" parameters:"ALI\305\236VER\304\260\305\236E BA\305\236LA" > allSteps:<stepValue:"{} element kontrol edilir." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> element kontrol edilir." parameters:"com.ozdilek.ozdilekteyim:id/etEposta" > allSteps:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0719> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0719" > > 
+23-05-2022 21:18:11.181 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-05-2022 21:18:11.181 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"LPConcept" parameterizedStepValue:"LPConcept" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\LoginPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"PPC" parameterizedStepValue:"PPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\ProductPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"HPC" parameterizedStepValue:"HPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\HomePageConcept.cpt" lineNumber:1 > > 
+23-05-2022 21:18:11.620 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ger" > 
+23-05-2022 21:18:11.620 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ger" parameterizedStepValue:"ger" > > 
+23-05-2022 21:18:32.000 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:32.004 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:32.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.886 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.886 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:32.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.061 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.062 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.062 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.199 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.266 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.288 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.449 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.449 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:18:33.450 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:18:33.518 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-05-2022 21:18:33.518 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/cardAddToCart> ID'li elemente t\304\261kla" parameters:"com.ozdilek.ozdilekteyim:id/cardAddToCart" > allSteps:<stepValue:"{} element kontrol edilir." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> element kontrol edilir." parameters:"com.ozdilek.ozdilekteyim:id/etEposta" > allSteps:<stepValue:"{} Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/imageView> Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameters:"com.ozdilek.ozdilekteyim:id/imageView" > allSteps:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0719> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0719" > allSteps:<stepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" parameterizedStepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" > allSteps:<stepValue:"{} kadar bekle" parameterizedStepValue:"<5> kadar bekle" parameters:"5" > allSteps:<stepValue:"geri don butonuna t\304\261kla" parameterizedStepValue:"geri don butonuna t\304\261kla" > allSteps:<stepValue:"{} ID bul ve {} de\304\237erini kontrol et" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> ID bul ve <ALI\305\236VER\304\260\305\236E BA\305\236LA> de\304\237erini kontrol et" parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" parameters:"ALI\305\236VER\304\260\305\236E BA\305\236LA" > allSteps:<stepValue:"{} xpath'li elemente t\304\261kla" parameterizedStepValue:"<//*[@text='Pantolon']> xpath'li elemente t\304\261kla" parameters:"//*[@text='Pantolon']" > > 
+23-05-2022 21:18:33.518 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-05-2022 21:18:33.518 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"LPConcept" parameterizedStepValue:"LPConcept" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\LoginPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"PPC" parameterizedStepValue:"PPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\ProductPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"HPC" parameterizedStepValue:"HPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\HomePageConcept.cpt" lineNumber:1 > > 
+23-05-2022 21:18:33.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ek" > 
+23-05-2022 21:18:33.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ek" parameterizedStepValue:"ek" > > 
+23-05-2022 21:18:34.059 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"b" > 
+23-05-2022 21:18:34.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"b" parameterizedStepValue:"b" > > 
+23-05-2022 21:18:34.080 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-05-2022 21:18:34.080 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"{} ID bul ve {} de\304\237erini kontrol et" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> ID bul ve <ALI\305\236VER\304\260\305\236E BA\305\236LA> de\304\237erini kontrol et" parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" parameters:"ALI\305\236VER\304\260\305\236E BA\305\236LA" > allSteps:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/cardAddToCart> ID'li elemente t\304\261kla" parameters:"com.ozdilek.ozdilekteyim:id/cardAddToCart" > allSteps:<stepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" parameterizedStepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" > allSteps:<stepValue:"{} element kontrol edilir." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> element kontrol edilir." parameters:"com.ozdilek.ozdilekteyim:id/etEposta" > allSteps:<stepValue:"{} xpath'li elemente t\304\261kla" parameterizedStepValue:"<//*[@text='Pantolon']> xpath'li elemente t\304\261kla" parameters:"//*[@text='Pantolon']" > allSteps:<stepValue:"{} Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/imageView> Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameters:"com.ozdilek.ozdilekteyim:id/imageView" > allSteps:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0719> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0719" > allSteps:<stepValue:"geri don butonuna t\304\261kla" parameterizedStepValue:"geri don butonuna t\304\261kla" > allSteps:<stepValue:"{} kadar bekle" parameterizedStepValue:"<5> kadar bekle" parameters:"5" > > 
+23-05-2022 21:18:34.080 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-05-2022 21:18:34.080 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"LPConcept" parameterizedStepValue:"LPConcept" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\LoginPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"PPC" parameterizedStepValue:"PPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\ProductPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"HPC" parameterizedStepValue:"HPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\HomePageConcept.cpt" lineNumber:1 > > 
+23-05-2022 21:18:36.873 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.873 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.922 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.922 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:36.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.042 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.043 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.044 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.044 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.184 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.184 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.188 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.188 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.196 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.196 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.197 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.197 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.273 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.295 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.296 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.296 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.356 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.356 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.405 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.406 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.406 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.748 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.748 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.748 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.751 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.753 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:37.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"\" kadar bekle" > 
+23-05-2022 21:18:37.754 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+23-05-2022 21:18:40.371 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:18:40.389 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:20.101 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:20.103 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:43.941 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:43.965 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:44.764 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.764 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.817 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.817 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.909 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:44.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.057 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.058 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.225 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.225 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-05-2022 21:21:45.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-05-2022 21:21:45.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"t" > 
+23-05-2022 21:21:45.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"t" parameterizedStepValue:"t" > > 
+23-05-2022 21:21:45.441 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-05-2022 21:21:45.441 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" parameterizedStepValue:"Sayfay\304\261 yukar\304\261 kayd\304\261r" > allSteps:<stepValue:"{} kadar bekle" parameterizedStepValue:"<3> kadar bekle" parameters:"3" > allSteps:<stepValue:"{} ID bul ve {} de\304\237erini kontrol et" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> ID bul ve <ALI\305\236VER\304\260\305\236E BA\305\236LA> de\304\237erini kontrol et" parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" parameters:"ALI\305\236VER\304\260\305\236E BA\305\236LA" > allSteps:<stepValue:"{} element kontrol edilir." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etEposta> element kontrol edilir." parameters:"com.ozdilek.ozdilekteyim:id/etEposta" > allSteps:<stepValue:"{} xpath'li elemente t\304\261kla" parameterizedStepValue:"<//*[@text='Pantolon']> xpath'li elemente t\304\261kla" parameters:"//*[@text='Pantolon']" > allSteps:<stepValue:"{} Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/imageView> Rastgele bir \303\274r\303\274n se\303\247imi yap\304\261ld\304\261." parameters:"com.ozdilek.ozdilekteyim:id/imageView" > allSteps:<stepValue:"{} ID'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword> ID'li elemente <...ipk0719> de\304\237erini yaz" parameters:"com.ozdilek.ozdilekteyim:id/etPassword" parameters:"...ipk0719" > allSteps:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/cardAddToCart> ID'li elemente t\304\261kla" parameters:"com.ozdilek.ozdilekteyim:id/cardAddToCart" > allSteps:<stepValue:"geri don butonuna t\304\261kla" parameterizedStepValue:"geri don butonuna t\304\261kla" > > 
+23-05-2022 21:21:45.442 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-05-2022 21:21:45.442 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"LPConcept" parameterizedStepValue:"LPConcept" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\LoginPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"PPC" parameterizedStepValue:"PPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\ProductPageConcept.cpt" lineNumber:1 > concepts:<stepValue:<stepValue:"HPC" parameterizedStepValue:"HPC" > filepath:"C:\\Users\\testinium\\Desktop\\SeleniumProjem\\AppiumBelevi\\specs\\HomePageConcept.cpt" lineNumber:1 > > 
+23-05-2022 21:21:45.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"t\304\261" > 
+23-05-2022 21:21:45.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"t\304\261" parameterizedStepValue:"t\304\261" > > 
+23-05-2022 21:21:45.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"t\304\261k" > 
+23-05-2022 21:21:45.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"t\304\261k" parameterizedStepValue:"t\304\261k" > > 
+23-05-2022 21:21:50.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"> ID'li elemente t\304\261kla" > 
+23-05-2022 21:21:50.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"> ID'li elemente t\304\261kla" parameterizedStepValue:"> ID'li elemente t\304\261kla" > > 
+23-05-2022 21:21:51.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"id/btnLogin\" ID'li elemente t\304\261kla" > 
+23-05-2022 21:21:51.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<id/btnLogin> ID'li elemente t\304\261kla" parameters:"id/btnLogin" > > 
+23-05-2022 21:21:57.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.ozdilek.ozdilekteyim:id/btnLogin\" ID'li elemente t\304\261kla" > 
+23-05-2022 21:21:57.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} ID'li elemente t\304\261kla" parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/btnLogin> ID'li elemente t\304\261kla" parameters:"com.ozdilek.ozdilekteyim:id/btnLogin" > > 
+23-05-2022 21:21:59.217 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:21:59.240 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:25:01.502 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec
+23-05-2022 21:25:01.535 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\TestSenaryom.spec

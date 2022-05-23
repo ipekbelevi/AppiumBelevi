@@ -5,5 +5,7 @@
 		"--hide-suggestion",
 		"--simple-console"
 	],
-	"FailedItems": []
+	"FailedItems": [
+		"specs\\TestSenaryom.spec:5"
+	]
 }
