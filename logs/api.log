@@ -1,0 +1,7 @@
+23-05-2022 16:56:36.416 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs
+23-05-2022 16:56:36.417 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-05-2022 16:56:36.424 [Gauge] [DEBUG] Found 1 files
+23-05-2022 16:56:36.426 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-05-2022 16:56:36.426 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\SeleniumProjem\AppiumBelevi\specs\example.spec
+23-05-2022 16:56:36.427 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-05-2022 16:56:36.427 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56964
